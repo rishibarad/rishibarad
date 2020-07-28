@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on implementing a quadcopter (drone) using an Arduino microcontroller
-- 📫 How to reach me: [email](mailto:rishib@umich.edu) or [LinkedIn](https://linkedin.com/in/rishibarad/) is preferred
+- 📫 How to reach me: [Email](mailto:rishib@umich.edu) or [LinkedIn](https://linkedin.com/in/rishibarad/) is preferred
 
 ## Fun Facts:
 - I study Computer Science and Neuroscience at the University of Michigan and will graduate in December 2020 #GoBlue 
