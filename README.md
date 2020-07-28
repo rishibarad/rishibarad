@@ -11,6 +11,7 @@
 ## Fun Facts:
 - I study Computer Science and Neuroscience at the University of Michigan and will graduate December 2020 #GoBlue 
 - I am passionate about mixing emerging technologies and social innovation to solve interesting problems. 
-
+<!--
 <p>
 <img style="margin-left:0;" src=https://github-readme-stats.vercel.app/api?username=rishibarad&show_icons=true alt="GitHub stats" /> </p>
+-->
