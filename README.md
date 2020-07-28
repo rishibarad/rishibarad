@@ -1,28 +1,16 @@
-### Hi there, I'm Rishi 👋
+# Hi there, I'm Rishi 👋
+[![Website](https://img.shields.io/badge/Website-rishibarad.github.io-blue?style=flat-square&link=https://rishibarad.github.io/)](https://rishibarad.github.io/)
+[![Resume](https://img.shields.io/badge/Resume-rishibarad%2Fresume-orange?style=flat-square&link=https://rishibarad.github.io/assets/Rishi_Barad_Resume.pdf)](https://rishibarad.github.io/assets/Rishi_Barad_Resume.pdf)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishibarad/)](https://www.linkedin.com/in/rishibarad/)
+![Pronouns](https://img.shields.io/badge/Pronouns-He%2FHim%2FHis-brightgreen?style=flat-square)
 
-<!--
-**rishibarad/rishibarad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
--->
+- 🔭 I’m currently working on implementing and constructing a quadcopter (drone) using an Arduino microcontroller
+- 📫 How to reach me: [email](mailto:rishib@umich.edu) or [LinkedIn](https://linkedin.com/in/rishibarad/) is preferred
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: enail or LinkedIn is preferred
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
--->
-<!--
-Hi there, I am Mish 👋
-Website Resume Projects Twitter Linkedin Pronouns
+## Fun Facts:
+- I study Computer Science and Neuroscience at the University of Michigan and will graduate this December 
+- I am passionate about mixing emerging technologies and social innovation to solve interesting problems. 
 
-I help early stage organizations understand and build their software or hardware products.
-🔭 I’m currently working on product & software for Ulendo
-😄 I'm a big fan of good Agile process, clean code and modern tech stacks
-🌱 I’m currently learning more about cloud networking & GraphQL
-💬 I'm currently available for consulting work - more info on my website
-📫 How to reach me: email or LinkedIn is preferred
--->
+<p>
+<img style="margin-left:0;" src=https://github-readme-stats.vercel.app/api?username=rishibarad&show_icons=true alt="GitHub stats" /> </p>
