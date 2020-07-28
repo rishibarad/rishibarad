@@ -9,7 +9,7 @@
 - 📫 How to reach me: [email](mailto:rishib@umich.edu) or [LinkedIn](https://linkedin.com/in/rishibarad/) is preferred
 
 ## Fun Facts:
-- I study Computer Science and Neuroscience at the University of Michigan and will graduate December 2020 #GoBlue 
+- I study Computer Science and Neuroscience at the University of Michigan and will graduate in December 2020 #GoBlue 
 - I am passionate about mixing emerging technologies and social innovation to solve interesting problems. 
 <!--
 <p>
