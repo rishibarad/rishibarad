@@ -1,6 +1,6 @@
 # Hi there, I'm Rishi 👋
 <!--[![Website](https://img.shields.io/badge/Website-rishibarad.github.io-blue?style=flat-square&link=https://rishibarad.github.io/)](https://rishibarad.github.io/)-->
-[![Resume](https://img.shields.io/badge/Resume-resume.pdf-blue?style=flat-square&link=https://rishibarad.github.io/assets/Rishi_Barad_Resume.pdf)](https://rishibarad.github.io/assets/Rishi_Barad_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-Resume.pdf-blue?style=flat-square&link=https://rishibarad.github.io/assets/Rishi_Barad_Resume.pdf)](https://rishibarad.github.io/assets/Rishi_Barad_Resume.pdf)
 [![Research](https://img.shields.io/badge/Research-Abstract-orange?style=flat-square&link=https://www.iomcworld.org/proceedings/effect-of-transcranial-direct-current-stimulation-on-aphasia-recovery-49710.html)](https://www.iomcworld.org/proceedings/effect-of-transcranial-direct-current-stimulation-on-aphasia-recovery-49710.html)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishibarad/)](https://www.linkedin.com/in/rishibarad/)
 ![Pronouns](https://img.shields.io/badge/Pronouns-He%2FHim%2FHis-brightgreen?style=flat-square)
