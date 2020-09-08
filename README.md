@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishibarad/)](https://www.linkedin.com/in/rishibarad/)
 ![Pronouns](https://img.shields.io/badge/Pronouns-He%2FHim%2FHis-brightgreen?style=flat-square)
 
-- 🚀 As a summer project, I'm working on implementing a quadcopter flight controller using an Arduino Uno microcontroller
+- 🚀 As a summer project, I'm working on implementing a quadcopter flight controller using an Arduino Uno
 - 🔭 I researched the effects of tDCS on aphasia recovery, and presented the results at Harvard. Check out a synopsis [here](https://www.iomcworld.org/proceedings/effect-of-transcranial-direct-current-stimulation-on-aphasia-recovery-49710.html)!
 - 💬 I'm currently open to full-time opportunities as a Software Engineer
 - 📫 How to reach me: [Email](mailto:rishib@umich.edu) or [LinkedIn](https://linkedin.com/in/rishibarad/)
