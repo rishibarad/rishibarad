@@ -16,4 +16,4 @@
 - 🔭 I researched the effects of tDCS on aphasia recovery, and presented the results at Harvard. Check out a synopsis [here](https://www.iomcworld.org/proceedings/effect-of-transcranial-direct-current-stimulation-on-aphasia-recovery-49710.html)!
 - 🚀 As a side project, I'm working on implementing a quadcopter flight controller using an Arduino Uno
 - 🥡 Favorite Foods: Sushi, Korean BBQ, Shawarma
-- 🎧 Latest Spotify Discovery: [Mosaïque - Ash](https://open.spotify.com/track/3bbqxT5UGZsvTy1r3txs0t?si=VfQqTMWISKi-vBxdk4MoBA)
+- 🎧 Song on Repeat: [Mosaïque - Ash](https://open.spotify.com/track/3bbqxT5UGZsvTy1r3txs0t?si=VfQqTMWISKi-vBxdk4MoBA)
