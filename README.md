@@ -9,7 +9,6 @@
 
 - 💬 I'm currently open to full-time opportunities as a Software Engineer
 - 📚 I study Computer Science and Neuroscience at the University of Michigan #GoBlue 
-<!-- - 🎯 I am passionate about mixing emerging technologies and social innovation to solve interesting problems. -->
 - 📫 How to reach me: [Email](mailto:rishib@umich.edu) or [LinkedIn](https://linkedin.com/in/rishibarad/)
 
 ## Fun Facts:
