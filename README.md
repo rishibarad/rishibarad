@@ -8,7 +8,7 @@
 
 
 - 💬 I'm open to full-time opportunities as a Software Engineer
-- I'm currently helping the team at [Alloy Automation](https://runalloy.com/), an Ecommerce Automation Startup, as a Softare Engineer Intern
+- I'm currently interning at [Alloy Automation](https://runalloy.com/), an Ecommerce Automation Startup
 - 📚 I study Computer Science and Neuroscience at the University of Michigan #GoBlue 
 - 📫 How to reach me: [Email](mailto:rishib@umich.edu) or [LinkedIn](https://linkedin.com/in/rishibarad/)
 
