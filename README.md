@@ -8,7 +8,7 @@
 
 
 - 💬 I'm open to full-time opportunities as a Software Engineer
-- 🖥 SWE Intern @ [Alloy Automation](https://runalloy.com/), an Ecommerce Automation Startup
+- 🖥 SWE Intern @ [Alloy](https://runalloy.com/), an Ecommerce Automation Startup
 - 📚 Computer Science and Neuroscience double major @ University of Michigan #GoBlue 
 - 📫 How to reach me: [Email](mailto:rishib@umich.edu) or [LinkedIn](https://linkedin.com/in/rishibarad/)
 
