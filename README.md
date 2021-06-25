@@ -7,7 +7,7 @@
 
 
 
-- 💬 I'm open to full-time opportunities as a Software Engineer
+- 💬 I'm currently a Software Engineer @ Amazon Web Services
 - 📚 Computer Science and Neuroscience double major @ University of Michigan #GoBlue 
 - 📫 How to reach me: [Email](mailto:rishib@umich.edu) or [LinkedIn](https://linkedin.com/in/rishibarad/)
 
