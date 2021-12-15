@@ -8,11 +8,11 @@
 
 
 - 💬 I'm currently a Software Engineer @ Amazon Web Services
-- 📚 Computer Science and Neuroscience double major @ University of Michigan #GoBlue 
+- 📚 I graduated from University of Michigan with a double major in Computer Science and Neuroscience #GoBlue 
 - 📫 How to reach me: [Email](mailto:rishib@umich.edu) or [LinkedIn](https://linkedin.com/in/rishibarad/)
 
 ## Fun Facts:
 - 🔭 I researched the effects of tDCS on aphasia recovery, and presented the results at Harvard. Check out a synopsis [here](https://www.iomcworld.org/proceedings/effect-of-transcranial-direct-current-stimulation-on-aphasia-recovery-49710.html)!
-- 🥡 Favorite Foods: Sushi, Korean BBQ, Shawarma
+- 🥡 Favorite Foods: Korean BBQ, Shawarma, Sushi
 - 🎧 Song on Repeat: [Mosaïque - Ash](https://open.spotify.com/track/3bbqxT5UGZsvTy1r3txs0t?si=VfQqTMWISKi-vBxdk4MoBA)
 <!-- - 🚀 As a side project, I'm working on implementing a quadcopter flight controller using an Arduino Uno-->
